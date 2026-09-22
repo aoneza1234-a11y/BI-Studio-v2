@@ -1,0 +1,6 @@
+{
+  "name": "Google Sheets Dashboard",
+  "description": "Connect Google Sheets to build, configure, and customize interactive real-time visual dashboards with flexible row selection and movable widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
